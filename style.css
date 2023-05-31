@@ -1076,6 +1076,19 @@ textarea {
 }
 
 @media screen and (max-width: 600px) {
+
+  .columna img {
+    height: 85px;
+   
+  }
+
+  .galeria {
+    padding: 0;
+  }
+
+  .imagen__container2 {
+    height: 150px;
+  }
   
   .content-box .card{
     width: 0;
