@@ -1051,6 +1051,11 @@ textarea {
 }
 
 @media screen and (max-width: 800px) {
+
+  .titulo__container2 {
+    width: 100%;
+  }
+
   .columna {
     flex: 50%;
     max-width: 50%;
@@ -1077,6 +1082,10 @@ textarea {
 }
 
 @media screen and (max-width: 600px) {
+
+  .titulo__container2 {
+    width: 100%;
+  }
 
   .columna img {
     height: 85px;
@@ -1235,7 +1244,9 @@ textarea {
 
 @media (max-width: 991px) {
   
-
+.titulo__container2 {
+  width: 100%;
+}
 
   .wrapper h1 {
     font-size: 2.5em;
